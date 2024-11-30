@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        label 'node1'
-    }
+    agent any
     
     environment {
         // Define environment variables
