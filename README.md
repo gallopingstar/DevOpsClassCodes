@@ -1,6 +1,6 @@
 Addressbook Tutorial
 ====================
-updated ----03dec2024..
+updated ----03dec2024 -- maven
 updated the file
 Updated the line for upstream and downstream
 updated the readmefile to trigger jenkins project
